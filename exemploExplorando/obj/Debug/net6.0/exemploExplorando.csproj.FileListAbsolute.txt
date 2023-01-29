@@ -1,0 +1,17 @@
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\exemploExplorando.exe
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\exemploExplorando.deps.json
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\exemploExplorando.runtimeconfig.json
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\exemploExplorando.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\exemploExplorando.pdb
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.csproj.AssemblyReference.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.AssemblyInfoInputs.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.AssemblyInfo.cs
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\refint\exemploExplorando.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.pdb
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.genruntimeconfig.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\ref\exemploExplorando.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\exemploExplorando\obj\Debug\net6.0\exemploExplorando.csproj.CopyComplete

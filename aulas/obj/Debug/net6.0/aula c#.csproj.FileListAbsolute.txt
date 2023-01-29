@@ -1,0 +1,15 @@
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.csproj.AssemblyReference.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.AssemblyInfoInputs.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.AssemblyInfo.cs
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.csproj.CoreCompileInputs.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\bin\Debug\net6.0\aula c#.exe
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\bin\Debug\net6.0\aula c#.deps.json
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\bin\Debug\net6.0\aula c#.runtimeconfig.json
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\bin\Debug\net6.0\aula c#.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\bin\Debug\net6.0\aula c#.pdb
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\refint\aula c#.dll
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.pdb
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\aula c#.genruntimeconfig.cache
+C:\Users\ana.pinheiro\Desktop\bootcampcsharp\aulas\obj\Debug\net6.0\ref\aula c#.dll

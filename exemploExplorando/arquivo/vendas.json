@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto ": "Caneta",
+    "Preco": 2.50,
+    "DataVenda": "2022-12-26T14:55:27.2971144-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "lapiseira",
+    "Preco": 5.50,
+    "DataVenda": "2022-12-26T14:55:27.2971144-03:00",
+    "Desconto": 10
+  },
+  {
+    "Id": 3,
+    "Nome_Produto": "borracha",
+    "Preco": 1.10,
+    "DataVenda": "2022-12-26T14:55:27.2971144-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 4,
+    "Nome_Produto": "pincel",
+    "Preco": 10.50,
+    "DataVenda": "2022-12-26T14:55:27.2971144-03:00",
+    "Desconto": 5
+  }
+] 
